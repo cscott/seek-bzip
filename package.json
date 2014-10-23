@@ -4,6 +4,11 @@
   "author": "Eli Skeggs, C. Scott Ananian, Kevin Kwok",
   "description": "a pure-JavaScript Node.JS module for random-access decoding bzip2 data",
   "main": "./seek-bzip/index.js",
+  "files": [
+    "bin",
+    "LICENSE",
+    "seek-bzip"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/cscott/seek-bzip.git"
