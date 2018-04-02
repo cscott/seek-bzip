@@ -22,7 +22,7 @@
     "test": "test"
   },
   "dependencies": {
-    "commander": "~2.8.1"
+    "commander": "^2.8.1"
   },
   "devDependencies": {
     "fibers": "~1.0.6",
