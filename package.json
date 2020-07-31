@@ -22,11 +22,11 @@
     "test": "test"
   },
   "dependencies": {
-    "commander": "^2.8.1"
+    "commander": "^6.0.0"
   },
   "devDependencies": {
-    "fibers": "~1.0.6",
-    "mocha": "~2.2.5"
+    "fibers": "^5.0.0",
+    "mocha": "^8.1.0"
   },
   "scripts": {
     "test": "mocha"
